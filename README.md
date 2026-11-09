@@ -1,7 +1,6 @@
 📚 Biblioteca Virtual — 3°B Informática
 
 <p align="center">
-<img src="https://img.shields.io/badge/Projeto-Biblioteca%20Virtual-blue?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Turma-3°B%20Informática-purple?style=for-the-badge" />
 </p>
 
