@@ -4,13 +4,13 @@
 <img src="https://img.shields.io/badge/Turma-3°B%20Informática-purple?style=for-the-badge" />
 </p>
 
-
+<p align="center">
 👥 Integrantes do Grupo:
 Hebert Nathan;
 João Pedro;
 Nikoly Laety;
 Pyetro Bitencourt.
-
+<p align="center">
 🎓 Informações Acadêmicas
 Informação	Detalhes
 Projeto	Biblioteca Virtual
