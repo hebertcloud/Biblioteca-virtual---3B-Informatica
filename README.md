@@ -1,10 +1,11 @@
+
+<p align="center">
 📚 Biblioteca Virtual — 3°B Informática
 
 <p align="center">
 <img src="https://img.shields.io/badge/Turma-3°B%20Informática-purple?style=for-the-badge" />
 </p>
 
-<p align="center">
 👥 Integrantes do Grupo:
 Hebert Nathan;
 João Pedro;
