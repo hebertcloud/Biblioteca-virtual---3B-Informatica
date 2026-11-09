@@ -1,4 +1,4 @@
-Biblioteca virtual 3°B Informática
+**Biblioteca virtual 3°B Informática**
 
 Participantes do grupo:
  Hebert Nathan;
